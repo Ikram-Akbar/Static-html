@@ -1,0 +1,12 @@
+/* Font */
+body {
+  font-family: "Hind Siliguri", sans-serif;
+  height: 3000px;
+  /* background: linear-gradient(141deg, #9EF8A4 0%, #9BF0AC 51%, #9BEFAF 75%); */
+}
+
+/*  Logo img  */
+.mensa-style-logo img {
+  width: 150px;
+  height: 50px;
+}
