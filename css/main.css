@@ -115,7 +115,7 @@ h3,
 h4, 
 h5, 
 h6 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "Hind Siliguri", sans-serif;
     -webkit-font-smoothing:antialiased;
 	color: #204163;
 }
@@ -167,6 +167,7 @@ ul {
 }
 p, li, a, span{}
 p {
+    color: black;
     font-size: 15px;
     line-height: 26px;
     margin-bottom: 15px;
