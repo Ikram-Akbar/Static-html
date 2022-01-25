@@ -9,4 +9,7 @@ body {
 .mensa-style-logo img {
   width: 150px;
   height: 50px;
+};
+.custom-icon img {
+  width: 80px;
 }
